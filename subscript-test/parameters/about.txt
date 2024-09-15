@@ -1,0 +1,5 @@
+
+            Parameter files using the UniverseMachine nodeOperator to model the central galaxy. 
+            Parameter files have been patced, have updated tidal stripping coefitients, matching the current definitions used in galacticus and presend in Du 2024.
+            These files are a quick run, used to test SubScript package.
+         
